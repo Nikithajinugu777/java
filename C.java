@@ -1,3 +1,6 @@
+/*MULTI LEVEL INHERITANCE*/
+
+
 import java.util.*;
 class A
 {
@@ -26,4 +29,10 @@ obj.methodB();
 obj.methodC();
 }
 }
+
+
+/*OUTPUT*/
+class A
+class B
+class c
 
