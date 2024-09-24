@@ -19,3 +19,8 @@ b.methodB();
 }
 }
 
+
+#output
+  parent class
+  child class
+
